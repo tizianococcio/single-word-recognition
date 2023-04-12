@@ -1,0 +1,2 @@
+model: 'dl_model/cnn_model.h5'
+upload: 'uploads/'
